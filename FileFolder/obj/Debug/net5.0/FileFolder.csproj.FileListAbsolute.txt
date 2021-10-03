@@ -1,0 +1,16 @@
+E:\c# asp project\NamedPipeTest1\NamedPipeTest1\FileFolder\bin\Debug\net5.0\FileFolder.exe
+E:\c# asp project\NamedPipeTest1\NamedPipeTest1\FileFolder\bin\Debug\net5.0\FileFolder.deps.json
+E:\c# asp project\NamedPipeTest1\NamedPipeTest1\FileFolder\bin\Debug\net5.0\FileFolder.runtimeconfig.json
+E:\c# asp project\NamedPipeTest1\NamedPipeTest1\FileFolder\bin\Debug\net5.0\FileFolder.runtimeconfig.dev.json
+E:\c# asp project\NamedPipeTest1\NamedPipeTest1\FileFolder\bin\Debug\net5.0\FileFolder.dll
+E:\c# asp project\NamedPipeTest1\NamedPipeTest1\FileFolder\bin\Debug\net5.0\ref\FileFolder.dll
+E:\c# asp project\NamedPipeTest1\NamedPipeTest1\FileFolder\bin\Debug\net5.0\FileFolder.pdb
+E:\c# asp project\NamedPipeTest1\NamedPipeTest1\FileFolder\obj\Debug\net5.0\FileFolder.csproj.AssemblyReference.cache
+E:\c# asp project\NamedPipeTest1\NamedPipeTest1\FileFolder\obj\Debug\net5.0\FileFolder.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# asp project\NamedPipeTest1\NamedPipeTest1\FileFolder\obj\Debug\net5.0\FileFolder.AssemblyInfoInputs.cache
+E:\c# asp project\NamedPipeTest1\NamedPipeTest1\FileFolder\obj\Debug\net5.0\FileFolder.AssemblyInfo.cs
+E:\c# asp project\NamedPipeTest1\NamedPipeTest1\FileFolder\obj\Debug\net5.0\FileFolder.csproj.CoreCompileInputs.cache
+E:\c# asp project\NamedPipeTest1\NamedPipeTest1\FileFolder\obj\Debug\net5.0\FileFolder.dll
+E:\c# asp project\NamedPipeTest1\NamedPipeTest1\FileFolder\obj\Debug\net5.0\ref\FileFolder.dll
+E:\c# asp project\NamedPipeTest1\NamedPipeTest1\FileFolder\obj\Debug\net5.0\FileFolder.pdb
+E:\c# asp project\NamedPipeTest1\NamedPipeTest1\FileFolder\obj\Debug\net5.0\FileFolder.genruntimeconfig.cache

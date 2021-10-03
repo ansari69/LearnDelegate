@@ -1,0 +1,16 @@
+E:\c# asp project\NamedPipeTest1\NamedPipeTest1\LearnDelagate1\bin\Debug\net5.0\LearnDelagate1.exe
+E:\c# asp project\NamedPipeTest1\NamedPipeTest1\LearnDelagate1\bin\Debug\net5.0\LearnDelagate1.deps.json
+E:\c# asp project\NamedPipeTest1\NamedPipeTest1\LearnDelagate1\bin\Debug\net5.0\LearnDelagate1.runtimeconfig.json
+E:\c# asp project\NamedPipeTest1\NamedPipeTest1\LearnDelagate1\bin\Debug\net5.0\LearnDelagate1.runtimeconfig.dev.json
+E:\c# asp project\NamedPipeTest1\NamedPipeTest1\LearnDelagate1\bin\Debug\net5.0\LearnDelagate1.dll
+E:\c# asp project\NamedPipeTest1\NamedPipeTest1\LearnDelagate1\bin\Debug\net5.0\ref\LearnDelagate1.dll
+E:\c# asp project\NamedPipeTest1\NamedPipeTest1\LearnDelagate1\bin\Debug\net5.0\LearnDelagate1.pdb
+E:\c# asp project\NamedPipeTest1\NamedPipeTest1\LearnDelagate1\obj\Debug\net5.0\LearnDelagate1.csproj.AssemblyReference.cache
+E:\c# asp project\NamedPipeTest1\NamedPipeTest1\LearnDelagate1\obj\Debug\net5.0\LearnDelagate1.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# asp project\NamedPipeTest1\NamedPipeTest1\LearnDelagate1\obj\Debug\net5.0\LearnDelagate1.AssemblyInfoInputs.cache
+E:\c# asp project\NamedPipeTest1\NamedPipeTest1\LearnDelagate1\obj\Debug\net5.0\LearnDelagate1.AssemblyInfo.cs
+E:\c# asp project\NamedPipeTest1\NamedPipeTest1\LearnDelagate1\obj\Debug\net5.0\LearnDelagate1.csproj.CoreCompileInputs.cache
+E:\c# asp project\NamedPipeTest1\NamedPipeTest1\LearnDelagate1\obj\Debug\net5.0\LearnDelagate1.dll
+E:\c# asp project\NamedPipeTest1\NamedPipeTest1\LearnDelagate1\obj\Debug\net5.0\ref\LearnDelagate1.dll
+E:\c# asp project\NamedPipeTest1\NamedPipeTest1\LearnDelagate1\obj\Debug\net5.0\LearnDelagate1.pdb
+E:\c# asp project\NamedPipeTest1\NamedPipeTest1\LearnDelagate1\obj\Debug\net5.0\LearnDelagate1.genruntimeconfig.cache

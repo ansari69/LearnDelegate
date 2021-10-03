@@ -1,0 +1,16 @@
+E:\c# asp project\NamedPipeTest1\NamedPipeTest1\NamedPipeClient1\bin\Debug\net5.0\NamedPipeClient1.exe
+E:\c# asp project\NamedPipeTest1\NamedPipeTest1\NamedPipeClient1\bin\Debug\net5.0\NamedPipeClient1.deps.json
+E:\c# asp project\NamedPipeTest1\NamedPipeTest1\NamedPipeClient1\bin\Debug\net5.0\NamedPipeClient1.runtimeconfig.json
+E:\c# asp project\NamedPipeTest1\NamedPipeTest1\NamedPipeClient1\bin\Debug\net5.0\NamedPipeClient1.runtimeconfig.dev.json
+E:\c# asp project\NamedPipeTest1\NamedPipeTest1\NamedPipeClient1\bin\Debug\net5.0\NamedPipeClient1.dll
+E:\c# asp project\NamedPipeTest1\NamedPipeTest1\NamedPipeClient1\bin\Debug\net5.0\ref\NamedPipeClient1.dll
+E:\c# asp project\NamedPipeTest1\NamedPipeTest1\NamedPipeClient1\bin\Debug\net5.0\NamedPipeClient1.pdb
+E:\c# asp project\NamedPipeTest1\NamedPipeTest1\NamedPipeClient1\obj\Debug\net5.0\NamedPipeClient1.csproj.AssemblyReference.cache
+E:\c# asp project\NamedPipeTest1\NamedPipeTest1\NamedPipeClient1\obj\Debug\net5.0\NamedPipeClient1.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# asp project\NamedPipeTest1\NamedPipeTest1\NamedPipeClient1\obj\Debug\net5.0\NamedPipeClient1.AssemblyInfoInputs.cache
+E:\c# asp project\NamedPipeTest1\NamedPipeTest1\NamedPipeClient1\obj\Debug\net5.0\NamedPipeClient1.AssemblyInfo.cs
+E:\c# asp project\NamedPipeTest1\NamedPipeTest1\NamedPipeClient1\obj\Debug\net5.0\NamedPipeClient1.csproj.CoreCompileInputs.cache
+E:\c# asp project\NamedPipeTest1\NamedPipeTest1\NamedPipeClient1\obj\Debug\net5.0\NamedPipeClient1.dll
+E:\c# asp project\NamedPipeTest1\NamedPipeTest1\NamedPipeClient1\obj\Debug\net5.0\ref\NamedPipeClient1.dll
+E:\c# asp project\NamedPipeTest1\NamedPipeTest1\NamedPipeClient1\obj\Debug\net5.0\NamedPipeClient1.pdb
+E:\c# asp project\NamedPipeTest1\NamedPipeTest1\NamedPipeClient1\obj\Debug\net5.0\NamedPipeClient1.genruntimeconfig.cache
